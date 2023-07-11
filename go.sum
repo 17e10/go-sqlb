@@ -1,0 +1,10 @@
+github.com/17e10/go-nameb v0.1.0 h1:7v/Kg86blLuK5qremh7ISN7g43t05kBL22fguBI2Ros=
+github.com/17e10/go-nameb v0.1.0/go.mod h1:GbDqoGssdYYZEaf3SuAMS5krMAOBvbCfxEkxx9aoUfI=
+github.com/17e10/go-notifyb v0.1.0 h1:MhzSukbxSFqVApR/L+qphnh549veivDR6piqM8HLpR0=
+github.com/17e10/go-notifyb v0.1.0/go.mod h1:07nHAO7cSlqMlg16I+g7VqAS4SjNNFEGl+BlFeF7xlc=
+github.com/17e10/go-patb v0.1.0 h1:RTFxUeC8m1+7iMCF57bAdV3jnXJIPC7hLRObo6oeE1M=
+github.com/17e10/go-patb v0.1.0/go.mod h1:7sae/vEw6xdl0t2MHnaVI8SEpvoj/0oDvkWU9sSReLg=
+github.com/17e10/go-rob v0.1.0 h1:YOd5RRwRcgyQsqyABeiT3/dRjdXbQhfhM8XZAWbnPG0=
+github.com/17e10/go-rob v0.1.0/go.mod h1:m+GxYXiDsHUK7m0b1e5r4bz+w4pnYFfjD+IrVdEQq/w=
+github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
+github.com/go-sql-driver/mysql v1.7.1/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
